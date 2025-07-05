@@ -22,8 +22,7 @@ This dashboard provides a comprehensive view of mobile sales performance across 
 ## 📷 Screenshots
 (Add visuals of dashboard views here)
 
-## 🎥 Demo Video (Optional)
-[Link to video walkthrough]
+
 
 ## 📁 Project Files
 - Mobile Sales.pbix (with anonymized data)
