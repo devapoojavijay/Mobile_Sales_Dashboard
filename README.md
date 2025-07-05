@@ -3,6 +3,9 @@
 ## 📈 Overview
 This dashboard provides a comprehensive view of mobile sales performance across different brands, regions, and time periods. Designed for business leaders and sales teams, it enables quick insights into revenue generation, product trends, and market performance.
 
+## Dataset
+- <a href= "https://github.com/devapoojavijay/Mobile_Sales_Dashboard/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx">dataset
+
 ## 🔍 Key Features
 - Dynamic KPI cards showing total sales, quantity, and profit
 - Top-selling brands and models identified
