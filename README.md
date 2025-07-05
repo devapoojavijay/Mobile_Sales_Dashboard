@@ -1,7 +1,7 @@
 # 📱 Mobile Sales Dashboard – Power BI Project
 
 ## 📈 Overview
-An interactive sales analytics dashboard built in Power BI to visualize mobile sales across various brands, regions, and timeframes.
+This dashboard provides a comprehensive view of mobile sales performance across different brands, regions, and time periods. Designed for business leaders and sales teams, it enables quick insights into revenue generation, product trends, and market performance.
 
 ## 🔍 Key Features
 - Dynamic KPI cards showing total sales, quantity, and profit
