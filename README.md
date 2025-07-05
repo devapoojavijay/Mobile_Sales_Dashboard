@@ -20,7 +20,8 @@ This dashboard provides a comprehensive view of mobile sales performance across 
 - DAX
 
 ## 📷 Screenshots
-(Add visuals of dashboard views here)
+![Screenshot 2025-01-05 162338](https://github.com/user-attachments/assets/0b74769d-24bc-441f-9a6c-2d6e2d036518)
+
 
 
 
