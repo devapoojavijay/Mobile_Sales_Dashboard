@@ -83,5 +83,5 @@ Interactive visualizations: bar charts, pie charts, line graphs, maps, and slice
 ## 📁 Project Files
 - Mobile Sales.pbix (with anonymized data)
 
-## 👨‍💻 Author
+## 
 [Vijay Devapooja](https://github.com/yourusername) – Data Analyst | Power BI Enthusiast
